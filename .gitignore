@@ -1,0 +1,21 @@
+# Python (Virtual environments & Caches)
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# PlatformIO / Arduino / ESP32 Build files
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+latex/
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables (Sensitive data)
+.env
